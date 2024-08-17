@@ -3,15 +3,11 @@
 
 ## S U M M A R Y  &nbsp; O V E R V I E W
 
- ## Processed Datasets
-<img src="./Dataset/3-1 Image Segmentation.png" alt="LS" width="1000" height="600">
-
+ ## Raw Datasets
+<img src="./Dataset/Raw Datasets.png" alt="LS" width="1000" height="600">
 
 ## Proposed Methodlogy
 <img src="./Dataset/Proposed Methodology.png" alt="LS" width="1000" height="600">
-
-## Processed Datasets
-<img src="./Dataset/3-1 Image Segmentation.png" alt="LS" width="1000" height="600">
 
 ## 1. Image Acquisition
 <img src="./Dataset/1 Imgae Acquisition.png" alt="LS" width="1000" height="600">
