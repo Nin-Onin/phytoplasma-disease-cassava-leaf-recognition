@@ -18,19 +18,19 @@
 ## 3. Image Segmentation
 <img src="./Dataset/3 Image Segmentation.png" alt="LS" width="1000" height="600">
 
-## 4. Feature Extraction Results
-### A. Confusion Matrix
-<img src="./Dataset/Feature Extraction-CM.png" alt="LS" width="1000" height="600">
+## 4. Feature Extraction Used
+### A. Modified Color Feature Extraction
+<img src="./Dataset/[insert image]" alt="Modified CFE" width="1000" height="600">
 
-### B. Graph Visualization
-<img src="./Dataset/Feature Extraction-Graph.png" alt="LS" width="1000" height="600">
+### B. Global Color Histogram
+<img src="./Dataset/[Global Color Histogram]" alt="LS" width="1000" height="600">
 
 ## 5. Intelligent System Used
 ### LINEAR SUPPORT VECTOR MACHINE
 <img src="./Dataset/Model Development.png" alt="LS" width="1000" height="600">
 
-### A. Global Color Historgram Results
+### A. Linear SVM - Global Color Historgram Results
 <img src="./Dataset/GCH-Results.png" alt="LS" width="1000" height="600">
 
-### B. Color Moments Results
+### B. Linear SVM - Color Moments Results
 <img src="./Dataset/CM-Results.png" alt="LS" width="1000" height="600">
